@@ -24,13 +24,13 @@ To get started with this project, follow these steps:
 1. Clone the repository to your local machine:
 
     ```
-    git clone git@github.com:Akashcitrusbug/react-sample.git
+    git clone https://github.com/rachit-patel-dev/react-work-sample.git
     ```
 
 2. Navigate to the project directory:
 
     ```
-    cd react-sample
+    cd react-work-sample
     ```
 
 3. Install dependencies using npm or yarn:
